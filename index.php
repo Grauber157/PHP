@@ -8,11 +8,9 @@
 </head>
 <body>
     
-    <Button>
-        <?php 
-            echo("Olá")
-        ?>
-    </Button>
+    <?php 
+        phpinfo()
+    ?>
     
 
 </body>
